@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ava": "^3.13.0",
+    "random-js": "^2.1.0"
+  }
+}

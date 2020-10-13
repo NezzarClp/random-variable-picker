@@ -1,0 +1,8 @@
+{
+  "script": {
+    "test": "npx ava testCases/pick.js"
+  },
+  "dependencies": {
+    "ava": "^3.13.0"
+  }
+}
